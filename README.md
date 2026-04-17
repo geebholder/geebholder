@@ -42,3 +42,5 @@ Includes a chart maker and editor.
 >#### On the side, been learning a bit of:
 >![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white&style=flat)
 >
+
+##### Languages: English (C2) · Portuguese (C1) · Spanish (Native)
