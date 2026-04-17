@@ -5,8 +5,8 @@ The fastest way from camera to client - a photo and video sales platform.<br>
 - [EtherMedia](https://ethermedia.app/)
 
 
-#### Here, I use:
-![React](https://img.shields.io/badge/React/RN-61DAFB?logo=react&logoColor=white&style=flat)
+>#### Here, I use:
+>![React](https://img.shields.io/badge/React/RN-61DAFB?logo=react&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-9135FF?logo=vite&logoColor=white&style=flat)
 ![Sharp](https://img.shields.io/badge/Sharp-0DABDE?logo=npm&logoColor=white&style=flat)
@@ -25,19 +25,20 @@ Includes a chart maker and editor.
 - Earlier this year, I reverse engineered and re-created an old 1995 game originally made with Adobe Director on my own custom engine.
 
 
-#### Both these engines are built with:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Vite](https://img.shields.io/badge/Vite-9135FF?logo=vite&logoColor=white&style=flat)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white&style=flat)<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-
-#### Creative tools of choice:
-![Photoshop](https://img.shields.io/badge/photoshop-31A8FF?&logoColor=white&style=flat)
-![After Effects](https://img.shields.io/badge/aftereffects-22042C?l&logoColor=white&style=flat)
-![Premiere](https://img.shields.io/badge/premiere-330D3E?l&logoColor=whitestyle=flat)<br>
-![Blender](https://img.shields.io/badge/blender-E87D0D?logo=blender&logoColor=white&style=flat)
-![Ableton](https://img.shields.io/badge/Ableton-F04E23?logoColor=white&style=flat)
-
-#### On the side, been learning a bit of:
-![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white&style=flat)
+>#### Both these engines are built with:
+>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+>![Vite](https://img.shields.io/badge/Vite-9135FF?logo=vite&logoColor=white&style=flat)
+>![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white&style=flat)<br>
+>![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+>![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+>
+>#### Creative tools of choice:
+>![Photoshop](https://img.shields.io/badge/photoshop-31A8FF?&logoColor=white&style=flat)
+>![After Effects](https://img.shields.io/badge/aftereffects-22042C?l&logoColor=white&style=flat)
+>![Premiere](https://img.shields.io/badge/premiere-330D3E?l&logoColor=whitestyle=flat)<br>
+>![Blender](https://img.shields.io/badge/blender-E87D0D?logo=blender&logoColor=white&style=flat)
+>![Ableton](https://img.shields.io/badge/Ableton-F04E23?logoColor=white&style=flat)
+>
+>#### On the side, been learning a bit of:
+>![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white&style=flat)
+>
