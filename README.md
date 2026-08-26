@@ -19,7 +19,7 @@ The fastest way from camera to client - a photo and video sales platform.<br>
 ### Gamedev
 - Many gamejam entries during 2014-2019, mostly experimental.
 
-- Since 2025, I've been developing a custom engine for a rhythm game hitting Steam this year, with a demo available in August.<br>
+- Since 2025, I've been developing a custom engine for a rhythm game hitting Steam this year, with a demo available in late 2026.<br>
 Includes a chart maker and editor.
 
 - Earlier this year, I reverse engineered and re-created an old 1995 game originally made with Adobe Director on my own custom engine.
